@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spoonkey",
+    "type": "java.lang.String",
+    "description": "A description for 'spoonkey'"
+  },
+  {
+    "name": "email",
+    "type": "java.lang.String",
+    "description": "A description for 'email'"
+  }
+]}
